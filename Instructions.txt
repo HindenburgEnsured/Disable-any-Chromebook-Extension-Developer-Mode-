@@ -1,6 +1,9 @@
 Instructions For Use:
 
-1: Flash the .bin file to a usb drive using Chromeboook Recovery Utility
+
+1. Go to https://chrome100.dev/ find your Chromebook on the list and click see more look for the newest version before 106.x under chrome once you find i select download
+
+2. Flash the .bin file to a usb drive using Chromeboook Recovery Utility
     Download at: https://chrome.google.com/webstore/detail/chromebookrecoveryutili/pocpnlppkickgojjlmhdmidojbmbodfm (Must have Google Chrome installed).
     Open The Extension and click the settings icon in the top right corner
     select use local image
@@ -8,13 +11,13 @@ Instructions For Use:
     connect a USB drive with 8GB of space or more select it and click continue (Note: This will wipe all data on the drive if you have any important data please back it up)
     The image will flash to the drive when completed disconnect the USB Drive and connect it to the chromebook to continue).
 
-2. Hold esc  refresh on power on the chromebook until you see a screen stating to insert recovery media plug in the USB drive and wait for it to detect (If it's already plugged in leave it in).
+3. Hold esc  refresh on power on the chromebook until you see a screen stating to insert recovery media plug in the USB drive and wait for it to detect (If it's already plugged in leave it in).
 
-3. Wait for your chromebook to restart to the setup screen then set it up as normal.
+4. Wait for your chromebook to restart to the setup screen then set it up as normal.
 
-4. Make a bookmark and name it whatever you want select more and in the url field copy and paste in the text from the ChromeDeveloperHack.txt file and select done
+5. Make a bookmark and name it whatever you want select more and in the url field copy and paste in the text from the ChromeDeveloperHack.txt file and select done
 
-5. Go to the webpage in the HackedWebpage.txt file when you arrive click the bookmark you created and disable any extensions
+6. Go to the webpage in the HackedWebpage.txt file when you arrive click the bookmark you created and disable any extensions
 
                             YOUR DONE!
                             
